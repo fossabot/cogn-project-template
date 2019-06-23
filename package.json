@@ -1,0 +1,9 @@
+{
+  "name": "cogn-project-template",
+  "version": "1.0.0-alpha.1",
+  "description": "github template-repository",
+  "repository": "https://github.com/CognitiveLaunchpad/cogn-project-template",
+  "author": "Marina Karpukhina <marina.ks.developer@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
