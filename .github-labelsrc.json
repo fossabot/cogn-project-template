@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1422892091,
+    "name": "priority: 1 - highest",
+    "color": "ffffff",
+    "description": "This problem will block progress"
+  },
+  {
+    "id": 1422892067,
+    "name": "priority: 2 - high",
+    "color": "ffffff",
+    "description": "Serious problem that could block progress"
+  },
+  {
+    "id": 1422892070,
+    "name": "priority: 3 - medium",
+    "color": "ffffff",
+    "description": "Has the potential to affect progress"
+  },
+  {
+    "id": 1422892066,
+    "name": "priority: 4 - low",
+    "color": "ffffff",
+    "description": "Minor problem or easily worked around"
+  },
+  {
+    "id": 1422892065,
+    "name": "priority: 5 - lowest",
+    "color": "ffffff",
+    "description": "Trivial problem with little or no impact on progress"
+  },
+  {
+    "id": 1422892071,
+    "name": "severity: 1 - blocker",
+    "color": "ffffff",
+    "description": "Blocks the interaction with the system, production could not run, everybody dies"
+  },
+  {
+    "id": 1422892076,
+    "name": "severity: 2 - critical",
+    "color": "ffffff",
+    "description": "Causes the system or a component to crash resulting in that part of the system being unusable"
+  },
+  {
+    "id": 1422892073,
+    "name": "severity: 3 - major",
+    "color": "ffffff",
+    "description": "Major loss of function"
+  },
+  {
+    "id": 1422892068,
+    "name": "severity: 4 - minor",
+    "color": "ffffff",
+    "description": "Does not effect the usability and the desired results are easily obtained with a workaround"
+  },
+  {
+    "id": 1422892074,
+    "name": "severity: 5 - trivial",
+    "color": "ffffff",
+    "description": "Minor loss of function, or other problem where easy workaround is present"
+  }
+]
