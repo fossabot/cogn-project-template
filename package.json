@@ -5,5 +5,11 @@
   "repository": "https://github.com/CognitiveLaunchpad/cogn-project-template",
   "author": "Marina Karpukhina <marina.ks.developer@gmail.com>",
   "license": "MIT",
-  "private": true
+  "scripts": {
+    "gh-labels:pull": "github-labels init",
+    "gh-labels:push": "github-labels sync"
+  },
+  "devDependencies": {
+    "@commercetools/github-labels": "1.0.2"
+  }
 }
