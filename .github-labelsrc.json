@@ -1,60 +1,96 @@
 [
   {
-    "id": 1422892091,
+    "id": 1424329276,
+    "name": "points: 1",
+    "color": "91ca55",
+    "description": "1/4 day duration"
+  },
+  {
+    "id": 1424329278,
+    "name": "points: 13",
+    "color": "fbca04",
+    "description": "4 to 8 days duration"
+  },
+  {
+    "id": 1424329280,
+    "name": "points: 2",
+    "color": "c2e2a2",
+    "description": "1/4 to 1/2 day duration"
+  },
+  {
+    "id": 1424329275,
+    "name": "points: 3",
+    "color": "e9f4dc",
+    "description": "1/2 to 1 day duration"
+  },
+  {
+    "id": 1424329277,
+    "name": "points: 5",
+    "color": "fef6d7",
+    "description": "1 to 2 days duration"
+  },
+  {
+    "id": 1424329274,
+    "name": "points: 8",
+    "color": "fef2c0",
+    "description": "2 to 4 days duration"
+  },
+  {
+    "id": 1424329268,
     "name": "priority: 1 - highest",
     "color": "b74137",
     "description": "This problem will block progress"
   },
   {
-    "id": 1422892067,
+    "id": 1424329266,
     "name": "priority: 2 - high",
     "color": "f7a6a3",
     "description": "Serious problem that could block progress"
   },
   {
-    "id": 1422892070,
+    "id": 1424329267,
     "name": "priority: 3 - medium",
     "color": "f9c08e",
     "description": "Has the potential to affect progress"
   },
   {
-    "id": 1422892066,
+    "id": 1424329272,
     "name": "priority: 4 - low",
     "color": "f9ea9a",
     "description": "Minor problem or easily worked around"
   },
   {
-    "id": 1422892065,
+    "id": 1424329279,
     "name": "priority: 5 - lowest",
     "color": "c8f9a9",
     "description": "Trivial problem with little or no impact on progress"
   },
   {
-    "id": 1422892071,
+    "id": 1424329271,
     "name": "severity: 1 - blocker",
     "color": "b74137",
     "description": "Blocks the interaction with the system, production could not run, everybody dies"
   },
   {
-    "id": 1422892076,
+    "id": 1424329283,
     "name": "severity: 2 - critical",
     "color": "f7a6a3",
     "description": "Causes the system or a component to crash resulting in that part of the system being unusable"
   },
   {
-    "id": 1422892073,
+    "id": 1424329270,
     "name": "severity: 3 - major",
     "color": "f9c08e",
     "description": "Major loss of function"
   },
   {
-    "id": 1422892068,
+    "id": 1424329273,
     "name": "severity: 4 - minor",
     "color": "f9ea9a",
     "description": "Does not effect the usability and the desired results are easily obtained with a workaround"
   },
   {
-    "id": 1422892074,
+    "id": 1424329269,
     "name": "severity: 5 - trivial",
     "color": "c8f9a9",
     "description": "Minor loss of function, or other problem where easy workaround is present"
