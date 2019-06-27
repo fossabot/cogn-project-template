@@ -66,6 +66,24 @@
     "description": "Trivial problem with little or no impact on progress"
   },
   {
+    "id": 1426280093,
+    "name": "semver: major",
+    "color": "b74137",
+    "description": "Incompatible API changes"
+  },
+  {
+    "id": 1426280091,
+    "name": "semver: minor",
+    "color": "f9ea9a",
+    "description": "Backwards-compatible functionality"
+  },
+  {
+    "id": 1426280092,
+    "name": "semver: patch",
+    "color": "c8f9a9",
+    "description": "Backwards-compatible bug fixes"
+  },
+  {
     "id": 1424329271,
     "name": "severity: 1 - blocker",
     "color": "b74137",
