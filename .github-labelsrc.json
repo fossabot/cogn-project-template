@@ -3,37 +3,37 @@
     "id": 1424329276,
     "name": "points: 1",
     "color": "91ca55",
-    "description": "1/4 day duration"
+    "description": "1/4 day duration (Story Points - measurement of complexity and/or size of a requirement)"
   },
   {
     "id": 1424329278,
     "name": "points: 13",
     "color": "fbca04",
-    "description": "4 to 8 days duration"
+    "description": "4 to 8 days duration (Story Points - measurement of complexity and/or size of a requirement)"
   },
   {
     "id": 1424329280,
     "name": "points: 2",
     "color": "c2e2a2",
-    "description": "1/4 to 1/2 day duration"
+    "description": "1/4 to 1/2 day duration (Story Points - measurement of complexity and/or size of a requirement)"
   },
   {
     "id": 1424329275,
     "name": "points: 3",
     "color": "e9f4dc",
-    "description": "1/2 to 1 day duration"
+    "description": "1/2 to 1 day duration (Story Points - measurement of complexity and/or size of a requirement)"
   },
   {
     "id": 1424329277,
     "name": "points: 5",
     "color": "fef6d7",
-    "description": "1 to 2 days duration"
+    "description": "1 to 2 days duration (Story Points - measurement of complexity and/or size of a requirement)"
   },
   {
     "id": 1424329274,
     "name": "points: 8",
     "color": "fef2c0",
-    "description": "2 to 4 days duration"
+    "description": "2 to 4 days duration (Story Points - measurement of complexity and/or size of a requirement)"
   },
   {
     "id": 1424329268,
@@ -112,5 +112,29 @@
     "name": "severity: 5 - trivial",
     "color": "c8f9a9",
     "description": "Minor loss of function, or other problem where easy workaround is present"
+  },
+  {
+    "id": 1433321232,
+    "name": "type: bug",
+    "color": "f7a6a3",
+    "description": "Inconsistencies or issues which will cause an issue or problem for users or implementors"
+  },
+  {
+    "id": 1433321228,
+    "name": "type: epic",
+    "color": "bdc6f9",
+    "description": "Large user-story that cannot be delivered without completing sub-user stories"
+  },
+  {
+    "id": 1433321229,
+    "name": "type: story",
+    "color": "c8f9a9",
+    "description": "Functionality or features expressed as user goals"
+  },
+  {
+    "id": 1433321230,
+    "name": "type: task",
+    "color": "c0f1f9",
+    "description": "A task that needs to be done"
   }
 ]
