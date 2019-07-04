@@ -114,6 +114,24 @@
     "description": "Minor loss of function, or other problem where easy workaround is present"
   },
   {
+    "id": 1436723768,
+    "name": "status: done",
+    "color": "c8f9a9",
+    "description": "Nothing further to be done, have been reviewed and accepted, awaiting to be closed"
+  },
+  {
+    "id": 1436723769,
+    "name": "status: in progress",
+    "color": "c0f1f9",
+    "description": "Is being currently initiated, worked on and has someone assigned"
+  },
+  {
+    "id": 1436723767,
+    "name": "status: to do",
+    "color": "dfe1e6",
+    "description": "Is being identified to be launched but not initiated yet"
+  },
+  {
     "id": 1433321232,
     "name": "type: bug",
     "color": "f7a6a3",
@@ -135,6 +153,6 @@
     "id": 1433321230,
     "name": "type: task",
     "color": "c0f1f9",
-    "description": "A task that needs to be done"
+    "description": "A task that needs to be done, specific action to launch wich has no direct functional impact"
   }
 ]
