@@ -3,7 +3,7 @@
   "version": "1.0.0-alpha.1",
   "description": "github template-repository",
   "repository": "https://github.com/CognitiveLaunchpad/cogn-project-template",
-  "author": "Marina Karpukhina <marina.ks.developer@gmail.com>",
+  "author": "Marina Karpukhina <cognitivim@gmail.com>",
   "license": "MIT",
   "scripts": {
     "gh-labels:pull": "github-labels init",
