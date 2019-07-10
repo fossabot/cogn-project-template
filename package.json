@@ -10,6 +10,6 @@
     "gh-labels:push": "github-labels sync"
   },
   "devDependencies": {
-    "@commercetools/github-labels": "1.0.2"
+    "@commercetools/github-labels": "commercetools/github-labels#1.1.0"
   }
 }

@@ -2,10 +2,9 @@
 # yarn lockfile v1
 
 
-"@commercetools/github-labels@1.0.2":
+"@commercetools/github-labels@commercetools/github-labels#1.1.0":
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@commercetools/github-labels/-/github-labels-1.0.2.tgz#b7f87d6deb403a99525f0cb513bd5d14f1566060"
-  integrity sha512-285RirvT2o1FxkEIKUGTRrnREHJNv/V4g+Tttvvz5grZ8wWRxbmDl1d7llM1Yu2DKwFo4gy8CGsK60SgRlz2gw==
+  resolved "https://codeload.github.com/commercetools/github-labels/tar.gz/5c9cd6b1a93152bc577bc7a42dfda5cc4a1c9a58"
   dependencies:
     "@commercetools/http-user-agent" "^2.0.0"
     "@octokit/rest" "^16.25.0"
