@@ -66,6 +66,36 @@
     "description": "Trivial problem with little or no impact on progress"
   },
   {
+    "id": 1451014064,
+    "name": "resolution: can’t reproduce",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014054,
+    "name": "resolution: duplicate",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014060,
+    "name": "resolution: fixed",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014072,
+    "name": "resolution: incomplete",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014062,
+    "name": "resolution: won't fix",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
     "id": 1426280093,
     "name": "semver: major",
     "color": "b74137",
@@ -114,6 +144,36 @@
     "description": "Minor loss of function, or other problem where easy workaround is present"
   },
   {
+    "id": 1451014053,
+    "name": "status: 1 - open",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014061,
+    "name": "status: 2 - in progress",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014058,
+    "name": "status: 3 - closed",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014055,
+    "name": "status: 3 - resolved",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
+    "id": 1451014057,
+    "name": "status: 4 - reopened",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
     "id": 1433321232,
     "name": "type: bug",
     "color": "f7a6a3",
@@ -136,30 +196,5 @@
     "name": "type: task",
     "color": "c0f1f9",
     "description": "A task that needs to be done, specific action to launch wich has no direct functional impact"
-  },
-  {
-    "name": "status: 1 - open",
-    "color": "ffffff",
-    "description": ""
-  },
-  {
-    "name": "status: 2 - in progress",
-    "color": "ffffff",
-    "description": ""
-  },
-  {
-    "name": "status: 3 - resolved",
-    "color": "ffffff",
-    "description": ""
-  },
-  {
-    "name": "status: 3 - closed",
-    "color": "ffffff",
-    "description": ""
-  },
-  {
-    "name": "status: 4 - reopened",
-    "color": "ffffff",
-    "description": ""
   }
 ]
