@@ -75,13 +75,7 @@
     "id": 1451014054,
     "name": "resolution: duplicate",
     "color": "ffffff",
-    "description": ""
-  },
-  {
-    "id": 1451014060,
-    "name": "resolution: fixed",
-    "color": "ffffff",
-    "description": ""
+    "description": "This issue or pull request already exists"
   },
   {
     "id": 1451014072,
@@ -90,10 +84,28 @@
     "description": ""
   },
   {
+    "id": 1451045266,
+    "name": "resolution: invalid",
+    "color": "ffffff",
+    "description": "Hacktoberfest spam"
+  },
+  {
+    "id": 1451045267,
+    "name": "resolution: postpone",
+    "color": "ffffff",
+    "description": "The severity and priority of this issue do not warrant the time or complexity needed to fix it"
+  },
+  {
+    "id": 1451014060,
+    "name": "resolution: resolved",
+    "color": "ffffff",
+    "description": ""
+  },
+  {
     "id": 1451014062,
     "name": "resolution: won't fix",
     "color": "ffffff",
-    "description": ""
+    "description": "Does not regard this as an issue or obsolete issue"
   },
   {
     "id": 1426280093,
