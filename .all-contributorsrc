@@ -4,10 +4,9 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
-  "contributorTemplate": "<%= avatarBlock %>",
+  "contributors": [
+  ],
   "contributorsPerLine": 7,
-  "contributors": [],
   "projectName": "cogn-project-template",
   "projectOwner": "CognitiveLaunchpad",
   "repoType": "github",
