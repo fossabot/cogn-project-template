@@ -1,5 +1,6 @@
 # cogn-project-template
 
+[![MIT License][license-badge]][license-url]
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-lightgrey.svg?logo=github)](#contributors)
 
 
@@ -16,4 +17,13 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+
+## License
+
+[MIT][license-url]. Copyright © 2019 [Cognitive Launchpad][owner-url].
+
+
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-url]: http://opensource.org/licenses/MIT
+[owner-url]: https://github.com/CognitiveLaunchpad
