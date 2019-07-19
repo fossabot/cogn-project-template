@@ -1,4 +1,6 @@
 {
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-lightgrey.svg?logo=github)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"<%= contributor.name %>\" /><br /><sub><b><%= contributor.name %></b></sub></a>",
   "files": [
     "README.md"
   ],
