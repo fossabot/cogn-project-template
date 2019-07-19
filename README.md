@@ -2,6 +2,7 @@
 
 [![MIT License][license-badge]][license-url]
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-lightgrey.svg?logo=github)](#contributors)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCognitiveLaunchpad%2Fcogn-project-template.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCognitiveLaunchpad%2Fcogn-project-template?ref=badge_shield)
 
 
 ## Contributors ✨
@@ -27,3 +28,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: http://opensource.org/licenses/MIT
 [owner-url]: https://github.com/CognitiveLaunchpad
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCognitiveLaunchpad%2Fcogn-project-template.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCognitiveLaunchpad%2Fcogn-project-template?ref=badge_large)
